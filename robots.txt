@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://koroyotofox.github.io/sitemap.xml
