@@ -9,5 +9,20 @@
         "name": "Dominik Teichert"
     },
     "items": [
+        {
+            "id": "https://koroyotofox.github.io/spyro-walkcycle-12.html",
+            "url": "https://koroyotofox.github.io/spyro-walkcycle-12.html",
+            "title": "Concept Art",
+            "content_html": "<p><strong>Concept Art, Semesterprojekt 2022:</strong><br>Das Attentat auf den Kaiser</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"undefined\" data-is-external-image=\"true\"  alt=\"\"></figure><strong>Software:<br></strong><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://koroyotofox.github.io/media/posts/49/Adobe_Photoshop_CC_icon.svg.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-xs.png 300w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-sm.png 480w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-md.png 768w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-lg.png 1024w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-xl.png 1360w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-2xl.png 1600w\"  alt=\"\" width=\"65\" height=\"63\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://koroyotofox.github.io/media/posts/49/projekt_fin.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-xs.png 300w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-sm.png 480w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-md.png 768w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-lg.png 1024w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-xl.png 1360w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-2xl.png 1600w\"  alt=\"\" width=\"9922\" height=\"7016\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"undefined\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p> </p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"undefined\" data-is-external-image=\"true\"  alt=\"\"></figure>",
+            "image": "https://koroyotofox.github.io/media/posts/49/projekt_fin-2.png",
+            "author": {
+                "name": "Dominik Teichert"
+            },
+            "tags": [
+                   "Grafikdesign"
+            ],
+            "date_published": "2022-06-14T00:18:57+02:00",
+            "date_modified": "2022-06-14T03:00:58+02:00"
+        }
     ]
 }

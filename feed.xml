@@ -3,10 +3,34 @@
     <title>portfolio</title>
     <link href="https://koroyotofox.github.io/feed.xml" rel="self" />
     <link href="https://koroyotofox.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-06-14T03:00:58+02:00</updated>
     <author>
         <name>Dominik Teichert</name>
     </author>
     <id>https://koroyotofox.github.io</id>
 
+    <entry>
+        <title>Concept Art</title>
+        <author>
+            <name>Dominik Teichert</name>
+        </author>
+        <link href="https://koroyotofox.github.io/spyro-walkcycle-12.html"/>
+        <id>https://koroyotofox.github.io/spyro-walkcycle-12.html</id>
+            <category term="Grafikdesign"/>
+
+        <updated>2022-06-14T03:00:58+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://koroyotofox.github.io/media/posts/49/projekt_fin-2.png" alt="" />
+                <p><strong>Concept Art, Semesterprojekt 2022:</strong><br>Das Attentat auf den Kaiser</p>
+<figure class="post__image"><img loading="lazy"  src="undefined" data-is-external-image="true"  alt=""></figure><strong>Software:<br></strong><figure class="post__image"><img loading="lazy"  src="https://koroyotofox.github.io/media/posts/49/Adobe_Photoshop_CC_icon.svg.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-xs.png 300w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-sm.png 480w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-md.png 768w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-lg.png 1024w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-xl.png 1360w ,https://koroyotofox.github.io/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-2xl.png 1600w"  alt="" width="65" height="63"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://koroyotofox.github.io/media/posts/49/projekt_fin.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-xs.png 300w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-sm.png 480w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-md.png 768w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-lg.png 1024w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-xl.png 1360w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-2xl.png 1600w"  alt="" width="9922" height="7016"></figure>
+<figure class="post__image"><img loading="lazy"  src="undefined" data-is-external-image="true"  alt=""></figure>
+<p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="undefined" data-is-external-image="true"  alt=""></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
