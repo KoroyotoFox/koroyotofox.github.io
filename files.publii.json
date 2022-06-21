@@ -7,7 +7,7 @@
     {
         "path": "am-rand.html",
         "type": "file",
-        "md5": "2590069ad29bd178384ed32b7a040505"
+        "md5": "48ace4bfd9cbb1f18a5e741803fd52a9"
     },
     {
         "path": "assets",
@@ -222,7 +222,7 @@
     {
         "path": "augen.html",
         "type": "file",
-        "md5": "7a5846687b3c14e1f373c5cf55eced69"
+        "md5": "caca0052efe7dde54998183d0a2d7d3c"
     },
     {
         "path": "authors",
@@ -307,17 +307,17 @@
     {
         "path": "bio.html",
         "type": "file",
-        "md5": "897c81b2dfeeb4a09a0c76c2e7635d55"
+        "md5": "00ed5be5fc4ba12b359740aeb160d3b7"
     },
     {
         "path": "concept-art.html",
         "type": "file",
-        "md5": "6f84448051a9239614c1a4c4877f87f0"
+        "md5": "2f3cf261a22382deb7851119e8ff7ef9"
     },
     {
         "path": "dragons-hoard.html",
         "type": "file",
-        "md5": "f91f5edcba07c3add62b10f80ba1e872"
+        "md5": "38fe04309bb919418db18676a972ceb2"
     },
     {
         "path": "eternal.html",
@@ -327,12 +327,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "89e24a6011e1c7bbd8b4aee80745c108"
+        "md5": "20d20d7b1784f68e4eb32998456fb71e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "d46bdd692ca446bd269b3cdc76692d6b"
+        "md5": "7e521b7515f2f7acfdd5d9b2fc6c8852"
     },
     {
         "path": "hoch-hinaus.html",
@@ -347,32 +347,32 @@
     {
         "path": "jean-michel-cd.html",
         "type": "file",
-        "md5": "1ac8d20784d66e76770af3c0b8c61d44"
+        "md5": "42cc908c0227835f6d76779fec1393d1"
     },
     {
         "path": "jean-michel-logo.html",
         "type": "file",
-        "md5": "5b6863e72b2e743bc140702c7ad58324"
+        "md5": "d044bb3e3b12a113f965c41e3ed9abaf"
     },
     {
         "path": "jean-michel-pl1.html",
         "type": "file",
-        "md5": "9df69f9793efabbb61db11e055fad0ca"
+        "md5": "2ca555d36dc67b2a1318d2dacacd7678"
     },
     {
         "path": "jean-michel-pl2.html",
         "type": "file",
-        "md5": "1786b4be62a047c4d5fcb74d80443626"
+        "md5": "949afb4a09619ff3a2159913b11f0ba8"
     },
     {
         "path": "kaminuhr.html",
         "type": "file",
-        "md5": "46f2124f1549270bb5c3fa237f1072a0"
+        "md5": "0b2bc05eaddf7ec276ab272cbc8c31af"
     },
     {
         "path": "kirlianfotografie.html",
         "type": "file",
-        "md5": "c32eb758b49015025e379931359390b1"
+        "md5": "2b2bce35bcfbcc4067485e4b163946d3"
     },
     {
         "path": "klavierspieler.html",
@@ -382,7 +382,7 @@
     {
         "path": "langzeitbelichtung.html",
         "type": "file",
-        "md5": "0c57d584191b36a9c3fa034649164918"
+        "md5": "6adbb7e347ad715ee46fe6b4190547ef"
     },
     {
         "path": "louis-xvi-plafoniere.html",
@@ -1120,44 +1120,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/23/Adobe_InDesign_CC_icon.svg.png",
-        "type": "file",
-        "md5": "4cc42d9cefa108d791d45476a7b96097"
-    },
-    {
         "path": "media/posts/23/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/23/responsive/Adobe_InDesign_CC_icon.svg-2xl.png",
-        "type": "file",
-        "md5": "d01ed21a0ddfe04073f2898a7caa8376"
-    },
-    {
-        "path": "/media/posts/23/responsive/Adobe_InDesign_CC_icon.svg-lg.png",
-        "type": "file",
-        "md5": "d01ed21a0ddfe04073f2898a7caa8376"
-    },
-    {
-        "path": "/media/posts/23/responsive/Adobe_InDesign_CC_icon.svg-md.png",
-        "type": "file",
-        "md5": "d01ed21a0ddfe04073f2898a7caa8376"
-    },
-    {
-        "path": "/media/posts/23/responsive/Adobe_InDesign_CC_icon.svg-sm.png",
-        "type": "file",
-        "md5": "2cf19b54f30674f2e0e29fab70f75aab"
-    },
-    {
-        "path": "/media/posts/23/responsive/Adobe_InDesign_CC_icon.svg-xl.png",
-        "type": "file",
-        "md5": "d01ed21a0ddfe04073f2898a7caa8376"
-    },
-    {
-        "path": "/media/posts/23/responsive/Adobe_InDesign_CC_icon.svg-xs.png",
-        "type": "file",
-        "md5": "863d0ced11af8e2240e92c0941c6a559"
     },
     {
         "path": "/media/posts/23/responsive/Startdoppelseite-2xl.png",
@@ -3690,11 +3655,6 @@
         "md5": false
     },
     {
-        "path": "/media/posts/49/Adobe_Photoshop_CC_icon.svg.png",
-        "type": "file",
-        "md5": "3e2c1d19f850d7c21e07c6cb3f6e7c84"
-    },
-    {
         "path": "/media/posts/49/projekt_fin-2.png",
         "type": "file",
         "md5": "c1c1d8051cb8db1c8e99ab3e241bffcf"
@@ -3708,36 +3668,6 @@
         "path": "media/posts/49/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-2xl.png",
-        "type": "file",
-        "md5": "47fb6e71d48a784d019eebbc171ffabf"
-    },
-    {
-        "path": "/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-lg.png",
-        "type": "file",
-        "md5": "47fb6e71d48a784d019eebbc171ffabf"
-    },
-    {
-        "path": "/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-md.png",
-        "type": "file",
-        "md5": "47fb6e71d48a784d019eebbc171ffabf"
-    },
-    {
-        "path": "/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-sm.png",
-        "type": "file",
-        "md5": "62e23990653a3162bf89cfbda57616b6"
-    },
-    {
-        "path": "/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-xl.png",
-        "type": "file",
-        "md5": "47fb6e71d48a784d019eebbc171ffabf"
-    },
-    {
-        "path": "/media/posts/49/responsive/Adobe_Photoshop_CC_icon.svg-xs.png",
-        "type": "file",
-        "md5": "c0080a94865d0a67c9f0cde24651efd3"
     },
     {
         "path": "/media/posts/49/responsive/projekt_fin-2-lg.png",
@@ -4592,7 +4522,7 @@
     {
         "path": "rts-game-asset-forschung.html",
         "type": "file",
-        "md5": "ed40e95276ea3d99379c1a1779a455c9"
+        "md5": "407f483744cb5366ce0b5430cc41e79e"
     },
     {
         "path": "rts-game-asset-luna-1.html",
@@ -4622,7 +4552,7 @@
     {
         "path": "rts-game-asset-transporter.html",
         "type": "file",
-        "md5": "9c4d43adc059c0d55f950cf9c520bbc7"
+        "md5": "56bec3e9a77032d2e51207f51481d483"
     },
     {
         "path": "schildkroete.html",
@@ -4632,7 +4562,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9fe861a29c5ad23a7d860e1ad152a475"
+        "md5": "616261c067ea1671518fc46adcbed98a"
     },
     {
         "path": "sitemap.xsl",
@@ -4647,7 +4577,7 @@
     {
         "path": "spielen-hefter.html",
         "type": "file",
-        "md5": "0b7032935c3acad94f79dc2507089dfb"
+        "md5": "55f730950a26be88ee561465e1492aae"
     },
     {
         "path": "spielen-plakat.html",
