@@ -237,7 +237,7 @@
     {
         "path": "/authors/d-t/index.html",
         "type": "file",
-        "md5": "814f1c3f2b4ee057df030c78fce3797b"
+        "md5": "eb80bfc3194cb88490ed90d0619e1a6b"
     },
     {
         "path": "authors/d-t/page",
@@ -312,7 +312,7 @@
     {
         "path": "concept-art.html",
         "type": "file",
-        "md5": "2f3cf261a22382deb7851119e8ff7ef9"
+        "md5": "d7d92b809c78db3d6b3d5c1b6ac43537"
     },
     {
         "path": "dragons-hoard.html",
@@ -327,12 +327,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "20d20d7b1784f68e4eb32998456fb71e"
+        "md5": "5f2e817ce56afa593f1aa71c17a8b4ef"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7e521b7515f2f7acfdd5d9b2fc6c8852"
+        "md5": "071b3963cbc40bf457b0fb9b3627ee85"
+    },
+    {
+        "path": "frauholle.html",
+        "type": "file",
+        "md5": "0c954c4a32e1003c266944c2330d23ce"
     },
     {
         "path": "hoch-hinaus.html",
@@ -3655,7 +3660,7 @@
         "md5": false
     },
     {
-        "path": "/media/posts/49/projekt_fin-2.png",
+        "path": "/media/posts/49/projekt_fin-3.png",
         "type": "file",
         "md5": "c1c1d8051cb8db1c8e99ab3e241bffcf"
     },
@@ -3670,34 +3675,39 @@
         "md5": false
     },
     {
-        "path": "/media/posts/49/responsive/projekt_fin-2-lg.png",
+        "path": "/media/posts/49/responsive/projekt_fin-2xl.png",
+        "type": "file",
+        "md5": "2ba751e01bd91f9e1265d08c804fd2e6"
+    },
+    {
+        "path": "/media/posts/49/responsive/projekt_fin-3-2xl.png",
+        "type": "file",
+        "md5": "2ba751e01bd91f9e1265d08c804fd2e6"
+    },
+    {
+        "path": "/media/posts/49/responsive/projekt_fin-3-lg.png",
         "type": "file",
         "md5": "fa02a850083c948ecd4688b3f6dbe1ce"
     },
     {
-        "path": "/media/posts/49/responsive/projekt_fin-2-md.png",
+        "path": "/media/posts/49/responsive/projekt_fin-3-md.png",
         "type": "file",
         "md5": "42578fe8f479e379f8009770272de793"
     },
     {
-        "path": "/media/posts/49/responsive/projekt_fin-2-sm.png",
+        "path": "/media/posts/49/responsive/projekt_fin-3-sm.png",
         "type": "file",
         "md5": "64e49fad2ffc5a2f6ad196f628c08497"
     },
     {
-        "path": "/media/posts/49/responsive/projekt_fin-2-xl.png",
+        "path": "/media/posts/49/responsive/projekt_fin-3-xl.png",
         "type": "file",
         "md5": "b7678f219dc8f8cb20560dcd02175864"
     },
     {
-        "path": "/media/posts/49/responsive/projekt_fin-2-xs.png",
+        "path": "/media/posts/49/responsive/projekt_fin-3-xs.png",
         "type": "file",
         "md5": "05155515075dac9be47755b1e927a802"
-    },
-    {
-        "path": "/media/posts/49/responsive/projekt_fin-2xl.png",
-        "type": "file",
-        "md5": "2ba751e01bd91f9e1265d08c804fd2e6"
     },
     {
         "path": "/media/posts/49/responsive/projekt_fin-lg.png",
@@ -4390,6 +4400,46 @@
         "md5": "06b62e2cf32aa93d012f52114a48bf71"
     },
     {
+        "path": "media/posts/52",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/52/Logo_Muster.png",
+        "type": "file",
+        "md5": "3a5e948e4dfcfdb2426fb39088582f12"
+    },
+    {
+        "path": "media/posts/52/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/52/responsive/Logo_Muster-lg.png",
+        "type": "file",
+        "md5": "3b5c8f4e68474099b21be89a956f8638"
+    },
+    {
+        "path": "/media/posts/52/responsive/Logo_Muster-md.png",
+        "type": "file",
+        "md5": "07a646c8f54d54f4c54b402ce7da5d97"
+    },
+    {
+        "path": "/media/posts/52/responsive/Logo_Muster-sm.png",
+        "type": "file",
+        "md5": "67a8b11d8cc3087cb5d02ebe1db1bafb"
+    },
+    {
+        "path": "/media/posts/52/responsive/Logo_Muster-xl.png",
+        "type": "file",
+        "md5": "5e185a92769f2beef9e5eeadee13b11f"
+    },
+    {
+        "path": "/media/posts/52/responsive/Logo_Muster-xs.png",
+        "type": "file",
+        "md5": "a952faa3ba0b612c7ccf89ed61f8f140"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -4562,7 +4612,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "616261c067ea1671518fc46adcbed98a"
+        "md5": "c8e5e56d586ca39516af4a1c9b8b7e70"
     },
     {
         "path": "sitemap.xsl",
@@ -4632,7 +4682,7 @@
     {
         "path": "/tags/logos-and-graphics/index.html",
         "type": "file",
-        "md5": "17c3de23f105f3cc4769767764e316f4"
+        "md5": "1d6047203fee1ad1896a1f1b97ff4b63"
     },
     {
         "path": "tags/logos-and-graphics/page",
@@ -4677,7 +4727,7 @@
     {
         "path": "/tags/video-and-games/index.html",
         "type": "file",
-        "md5": "caeb00d523aa074a6b3306897aad92b1"
+        "md5": "7a6dad97ce347f59860a3982d87e1288"
     },
     {
         "path": "tags/video-and-games/page",

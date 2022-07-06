@@ -3,12 +3,31 @@
     <title>portfolio</title>
     <link href="https://koroyotofox.github.io/feed.xml" rel="self" />
     <link href="https://koroyotofox.github.io" />
-    <updated>2022-06-21T16:35:34+02:00</updated>
+    <updated>2022-07-06T01:54:22+02:00</updated>
     <author>
         <name>Dominik Teichert</name>
     </author>
     <id>https://koroyotofox.github.io</id>
 
+    <entry>
+        <title>Frau Holle VR</title>
+        <author>
+            <name>Dominik Teichert</name>
+        </author>
+        <link href="https://koroyotofox.github.io/frauholle.html"/>
+        <id>https://koroyotofox.github.io/frauholle.html</id>
+            <category term="Video &amp; Games"/>
+
+        <updated>2022-07-06T01:50:48+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://koroyotofox.github.io/media/posts/52/Logo_Muster.png" alt="" />
+                <p><strong>VR Projekt, Semesterprojekt 2022:</strong><br>VR Interpretation eines Märchens, in diesem Fall Frau Folle, in der "Unreal Engine". Hier zu sehen ein kurzer Atmosperic Demo um die Stimmung der VR Anwendung einzufangen.</p>
+<figure class="post__video"><iframe loading="lazy" width="694" height="389" style="width: 694px; height: 389px;" src="https://www.youtube.com/embed/82sRY-62FLA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kaminuhr</title>
         <author>
@@ -31,25 +50,6 @@
         </content>
     </entry>
     <entry>
-        <title>Wizzard</title>
-        <author>
-            <name>Dominik Teichert</name>
-        </author>
-        <link href="https://koroyotofox.github.io/wizzard.html"/>
-        <id>https://koroyotofox.github.io/wizzard.html</id>
-            <category term="Video &amp; Games"/>
-
-        <updated>2022-06-21T12:28:38+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://koroyotofox.github.io/media/posts/50/Unbenanfsdndat-2-2.PNG" alt="" />
-                <p><strong>Crowd Simulation, Motion Capture, Semesterprojekt 2022:</strong><br>Crowd Simulation und Motion Capture vereint in einen Projekt.</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/eN9qlVNgds4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Concept Art</title>
         <author>
             <name>Dominik Teichert</name>
@@ -58,11 +58,11 @@
         <id>https://koroyotofox.github.io/concept-art.html</id>
             <category term="Grafikdesign"/>
 
-        <updated>2022-06-21T16:35:34+02:00</updated>
+        <updated>2022-07-06T01:54:22+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://koroyotofox.github.io/media/posts/49/projekt_fin-2.png" alt="" />
+                    <img src="https://koroyotofox.github.io/media/posts/49/projekt_fin-3.png" alt="" />
                 <p><strong>Concept Art, Semesterprojekt 2022:</strong><br>Das Attentat auf den Kaiser</p>
 <figure class="post__image"><img loading="lazy"  src="undefined" data-is-external-image="true"  alt=""></figure>
 <figure class="post__image"><img loading="lazy"  src="https://koroyotofox.github.io/media/posts/49/projekt_fin.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-xs.png 300w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-sm.png 480w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-md.png 768w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-lg.png 1024w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-xl.png 1360w ,https://koroyotofox.github.io/media/posts/49/responsive/projekt_fin-2xl.png 1600w"  alt="" width="9922" height="7016"></figure>
