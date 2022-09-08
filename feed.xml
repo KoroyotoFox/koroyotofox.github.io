@@ -3,12 +3,32 @@
     <title>portfolio</title>
     <link href="https://koroyotofox.github.io/feed.xml" rel="self" />
     <link href="https://koroyotofox.github.io" />
-    <updated>2022-07-06T01:54:22+02:00</updated>
+    <updated>2022-09-08T19:34:35+02:00</updated>
     <author>
         <name>Dominik Teichert</name>
     </author>
     <id>https://koroyotofox.github.io</id>
 
+    <entry>
+        <title>Regulator Test</title>
+        <author>
+            <name>Dominik Teichert</name>
+        </author>
+        <link href="https://koroyotofox.github.io/frauholle-2.html"/>
+        <id>https://koroyotofox.github.io/frauholle-2.html</id>
+            <category term="Sketches"/>
+
+        <updated>2022-09-08T19:34:35+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://koroyotofox.github.io/media/posts/53/dasdsad.jpg" alt="" />
+                <p><strong>Animation und Modell eines Regulators:</strong><br>Als besondere Herausforderung, laufen die Zeiger und Pendel in Echtzeit. Hierzu wird mittels Driver der Rotationswert verechnet.</p>
+<figure class="post__image"><img loading="lazy"  src="https://koroyotofox.github.io/media/posts/53/Sidesa.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-xs.jpg 300w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-sm.jpg 480w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-md.jpg 768w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-lg.jpg 1024w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-xl.jpg 1360w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-2xl.jpg 1600w"  alt="" width="1080" height="1920"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://koroyotofox.github.io/media/posts/53/Side.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://koroyotofox.github.io/media/posts/53/responsive/Side-xs.jpg 300w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-sm.jpg 480w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-md.jpg 768w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-lg.jpg 1024w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-xl.jpg 1360w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-2xl.jpg 1600w"  alt="" width="1080" height="1920"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Frau Holle VR</title>
         <author>
@@ -275,55 +295,6 @@
                 <p><strong>Game Assets, Hobbyprojekt 2019:</strong></p>
 <figure class="post__image"><img loading="lazy"  src="https://koroyotofox.github.io/media/posts/42/Tow2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://koroyotofox.github.io/media/posts/42/responsive/Tow2-xs.jpg 300w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow2-sm.jpg 480w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow2-md.jpg 768w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow2-lg.jpg 1024w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow2-xl.jpg 1360w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow2-2xl.jpg 1600w"  alt="" width="1920" height="1080"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://koroyotofox.github.io/media/posts/42/Tow1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://koroyotofox.github.io/media/posts/42/responsive/Tow1-xs.jpg 300w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow1-sm.jpg 480w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow1-md.jpg 768w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow1-lg.jpg 1024w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow1-xl.jpg 1360w ,https://koroyotofox.github.io/media/posts/42/responsive/Tow1-2xl.jpg 1600w"  alt="" width="1920" height="1080"></figure>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>RTS - Earth 2150: Nuke</title>
-        <author>
-            <name>Dominik Teichert</name>
-        </author>
-        <link href="https://koroyotofox.github.io/rts-game-asset-nuke.html"/>
-        <id>https://koroyotofox.github.io/rts-game-asset-nuke.html</id>
-            <category term="Sketches"/>
-
-        <updated>2022-06-21T12:19:42+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://koroyotofox.github.io/media/posts/41/Logo_Muster-2.png" alt="" />
-                <p><strong>Game Assets, Hobbyprojekt 2019:</strong></p>
-<figure class="post__image"><img loading="lazy"  src="https://koroyotofox.github.io/media/posts/41/Nuke2-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://koroyotofox.github.io/media/posts/41/responsive/Nuke2-2-xs.jpg 300w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke2-2-sm.jpg 480w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke2-2-md.jpg 768w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke2-2-lg.jpg 1024w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke2-2-xl.jpg 1360w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke2-2-2xl.jpg 1600w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://koroyotofox.github.io/media/posts/41/Nuke1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://koroyotofox.github.io/media/posts/41/responsive/Nuke1-xs.jpg 300w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke1-sm.jpg 480w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke1-md.jpg 768w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke1-lg.jpg 1024w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke1-xl.jpg 1360w ,https://koroyotofox.github.io/media/posts/41/responsive/Nuke1-2xl.jpg 1600w"  alt="" width="1920" height="1080"></figure>
 <p> </p>
 <p> </p>
 <p> </p>
