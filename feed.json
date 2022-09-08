@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://koroyotofox.github.io/frauholle-2.html",
-            "url": "https://koroyotofox.github.io/frauholle-2.html",
+            "id": "https://koroyotofox.github.io/regulator_test.html",
+            "url": "https://koroyotofox.github.io/regulator_test.html",
             "title": "Regulator Test",
             "content_html": "<p><strong>Animation und Modell eines Regulators:</strong><br>Als besondere Herausforderung, laufen die Zeiger und Pendel in Echtzeit. Hierzu wird mittels Driver der Rotationswert verechnet.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://koroyotofox.github.io/media/posts/53/Sidesa.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-xs.jpg 300w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-sm.jpg 480w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-md.jpg 768w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-lg.jpg 1024w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-xl.jpg 1360w ,https://koroyotofox.github.io/media/posts/53/responsive/Sidesa-2xl.jpg 1600w\"  alt=\"\" width=\"1080\" height=\"1920\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://koroyotofox.github.io/media/posts/53/Side.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://koroyotofox.github.io/media/posts/53/responsive/Side-xs.jpg 300w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-sm.jpg 480w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-md.jpg 768w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-lg.jpg 1024w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-xl.jpg 1360w ,https://koroyotofox.github.io/media/posts/53/responsive/Side-2xl.jpg 1600w\"  alt=\"\" width=\"1080\" height=\"1920\"></figure>",
             "image": "https://koroyotofox.github.io/media/posts/53/dasdsad.jpg",
@@ -22,7 +22,7 @@
                    "Sketches"
             ],
             "date_published": "2022-09-08T19:20:18+02:00",
-            "date_modified": "2022-09-08T19:34:35+02:00"
+            "date_modified": "2022-09-08T19:37:04+02:00"
         },
         {
             "id": "https://koroyotofox.github.io/frauholle.html",

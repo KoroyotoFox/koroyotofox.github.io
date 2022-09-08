@@ -237,7 +237,7 @@
     {
         "path": "/authors/d-t/index.html",
         "type": "file",
-        "md5": "2d29821b0ac38f03161ad20f65e0a8b7"
+        "md5": "870b5a315e21af463486c3eb723b9756"
     },
     {
         "path": "authors/d-t/page",
@@ -327,17 +327,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "3a4de52a52b142eb9f22497f2fa3e863"
+        "md5": "bb9abc13d963ea984330f80a3b550a1e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "bd9514ffc4eb51d544f5e27e8b98238b"
-    },
-    {
-        "path": "frauholle-2.html",
-        "type": "file",
-        "md5": "56864e61593b34c3ddff7f66b8149094"
+        "md5": "742d8209ccebe6fbda95afc69ef89fad"
     },
     {
         "path": "frauholle.html",
@@ -4705,6 +4700,11 @@
         "md5": "1224eee84ec8af90a778cb84bc98d999"
     },
     {
+        "path": "regulator_test.html",
+        "type": "file",
+        "md5": "ef73340c414185959f50361fd1d3c99a"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "fdce8f5a9fc0f33516bf573066b3663c"
@@ -4762,7 +4762,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e5ab6ee320df04d0affc93d5910182f5"
+        "md5": "f1d0bc22d5a38715f5affc49937d30fb"
     },
     {
         "path": "sitemap.xsl",
@@ -4867,7 +4867,7 @@
     {
         "path": "/tags/sketches/index.html",
         "type": "file",
-        "md5": "c8ab84c137e0f041aa06b3f5219eb15b"
+        "md5": "9afd501ef684d63a8d80ee04dcf744a9"
     },
     {
         "path": "tags/sketches/page",
